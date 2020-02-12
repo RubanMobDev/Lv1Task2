@@ -8,4 +8,5 @@
     <string name="AB">A Λ B</string>
     <string name="checkAnswer">Check answers</string>
     <string name="nyeh">NYEEHHHH</string>
+    <string name="correct_answers">You have %d correct answers</string>
 </resources>
