@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lv1Task2</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="troo">T</string>
+    <string name="falsee">F</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="AB">A Λ B</string>
+    <string name="checkAnswer">Check answers</string>
+    <string name="nyeh">NYEEHHHH</string>
+</resources>
